@@ -1,3 +1,3 @@
 # testrepo
 This is a coursera test
-commit
+This is a markdown file in the repository
